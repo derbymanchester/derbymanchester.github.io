@@ -87,11 +87,4 @@ Website sẽ hiện ra!
 
 ---
 
-## Host lên GitHub Pages
-
-1. Tạo repo tên `username.github.io` trên [github.com](https://github.com)
-2. Upload 3 file: `index.html`, `index.js`, `package.json`
-3. Vào **Settings → Pages → Source: Deploy from branch (main)**
-4. Truy cập `https://username.github.io` sau ~2 phút
-
 > Node.js chỉ dùng để test local. Toàn bộ logic edge detection chạy bằng JavaScript thuần trong trình duyệt, hoạt động bình thường trên GitHub Pages.
