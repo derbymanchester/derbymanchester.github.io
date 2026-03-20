@@ -7,7 +7,7 @@ Bài tập: Hiển thị video + canvas edge detection theo thời gian thực.
 - 5 bộ lọc: **Sobel grayscale**, **Sobel màu**, **Laplacian**, **Emboss**, **Invert**
 - Điều chỉnh ngưỡng (threshold) và độ sáng bằng slider
 - Tùy chọn màu viền và màu nền canvas
-- Tải video từ máy tính hoặc dùng video mẫu sẵn có
+- Tải video từ máy tính hoặc dùng video mẫu đính kèm (sample.mp4)
 - Histogram realtime phân bố độ sáng
 - Chụp ảnh canvas thành file PNG
 - Hiển thị FPS thực tế
